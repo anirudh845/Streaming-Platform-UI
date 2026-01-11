@@ -9,7 +9,7 @@ body {
 }
 
 .main {
-    background-image: url("Images/Netflix BG.jpg");
+    background-image: url("Images/netflix-bg.jpg");
     height: 100vh;
     background-position: center center;
     background-size: cover;
